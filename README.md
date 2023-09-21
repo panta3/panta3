@@ -4,7 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panta3&label=Profile%20views&color=0e75b6&style=flat" alt="panta3" /> </p>
-
+<p align="left">
+          I am a passionate and dedicated budding technologist, deeply intrigued by the world of programming. 
+          As I navigate through my second year of pursuing a BSc Honours degree in Computer Science at McMaster University, I have dedicated the past 8 months to immersing myself in a diverse array of programming languages and technologies.
+          Python, HTML, CSS, SQL, and C have been my playground, allowing me to explore and experiment with the foundations of software development.
+          This journey has further ignited my curiosity and solidified my commitment to mastering the art of coding.
+  </p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
