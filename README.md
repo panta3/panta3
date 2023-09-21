@@ -1,6 +1,6 @@
 # Aarav Pant
 
-![Aarav's Photo](path_to_your_photo.jpg)  <!-- Replace 'path_to_your_photo.jpg' with the actual path or URL to your photo -->
+
 
 I'm a dynamic second-year Computer Science student at McMaster University with a strong passion for technology. As I navigate through my second year at McMaster, I've immersed myself in Python, HTML, CSS, SQL, and C, solidifying my commitment to mastering the art of coding. I'm eager to leverage my skills in various domains to contribute to innovative projects.
 
