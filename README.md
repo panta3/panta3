@@ -58,6 +58,10 @@ I’m a driven **third-year Computer Science student** at McMaster University, c
 
 ---
 
+### LeetCode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aaravpant00)](https://leetcode.com/aaravpant00/)
+---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32978840/132136263-2fe1bfe5-f6c2-42e4-95a8-b68c52fc03d4.gif" width="50" height="50"/>
 </p>
