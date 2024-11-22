@@ -67,7 +67,13 @@ I’m a driven **third-year Computer Science student** at McMaster University, c
 <p align="left">Data Structures & Algorithms, Automata and Computability, Databases, Concurrent Systems, Algorithms and Software Design, Principles of Programming Languages, Operating Systems, Applied Cryptography, Fundamentals of Machine Learning, Introduction to Data Mining, Computer Networks and Security</p>
 
 ---
+## Statistical Data
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=panta3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
+---
 ### LeetCode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/aaravpant00)](https://leetcode.com/aaravpant00/)
